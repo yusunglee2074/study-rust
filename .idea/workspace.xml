@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/guessing_game/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c417db2b-30b8-4542-a434-e17e52e16e9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/variables" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ckgpa2hp" />
+  </component>
+  <component name="ProjectId" id="1cbpJYAHx4XkIKnmum9dJ1GiLyd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="language.rust.rustfmt" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo update" />
+      <command value="cargo build" />
+      <command value="cargo doc --open" />
+      <command value="cargo " />
+      <command value="cargo new variables" />
+      <command value="cargo run build" />
+      <command value="cargo run" />
+    </option>
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+      <recentPaths value="$PROJECT_DIR$/.." />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cargo Command.run">
+    <configuration name="--help" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="--help" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/guessing_game" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doc" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="doc --open" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/guessing_game" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="new" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="new variables" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/guessing_game" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/guessing_game" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="update" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/guessing_game" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.run" />
+        <item itemvalue="Cargo Command.run" />
+        <item itemvalue="Cargo Command.run" />
+        <item itemvalue="Cargo Command.new" />
+        <item itemvalue="Cargo Command.new" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c417db2b-30b8-4542-a434-e17e52e16e9c" name="Default Changelist" comment="" />
+      <created>1590807075541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590807075541</updated>
+      <workItem from="1590807077193" duration="4787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="127" key="#Project_Structure" timestamp="1590809325096">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="740" y="127" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1590809325096" />
+    <state x="604" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590807221972">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="604" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590807221972" />
+    <state x="928" y="223" key="FileChooserDialogImpl" timestamp="1590812675459">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="928" y="223" key="FileChooserDialogImpl/0.23.1680.1027@0.23.1680.1027" timestamp="1590812675459" />
+    <state width="1038" height="239" key="GridCell.Tab.0.bottom" timestamp="1590812792687">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1038" height="239" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590812792687" />
+    <state width="1038" height="239" key="GridCell.Tab.0.center" timestamp="1590812792686">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1038" height="239" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590812792686" />
+    <state width="1038" height="239" key="GridCell.Tab.0.left" timestamp="1590812792686">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1038" height="239" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590812792686" />
+    <state width="1038" height="239" key="GridCell.Tab.0.right" timestamp="1590812792687">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1038" height="239" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590812792687" />
+    <state x="641" y="100" key="SettingsEditor" timestamp="1590807159237">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="641" y="100" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590807159237" />
+    <state width="569" height="266" key="javadoc.popup.new" timestamp="1590812735814">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="569" height="266" key="javadoc.popup.new/0.23.1680.1027@0.23.1680.1027" timestamp="1590812735814" />
+    <state x="805" y="211" width="670" height="675" key="run.anything.popup" timestamp="1590812789186">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="805" y="211" width="670" height="675" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1590812789186" />
+    <state x="805" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1590812745292">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="805" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1590812745292" />
+  </component>
+</project>
